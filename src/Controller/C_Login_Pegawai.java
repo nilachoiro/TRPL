@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Rini
+ * @author askdjsafk
  */
 public class C_Login_Pegawai {
     private View.Sifings_Login the_V;
