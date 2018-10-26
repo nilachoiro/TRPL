@@ -72,7 +72,7 @@ CREATE TABLE `distribusi` (
 --
 -- Table structure for table `konsumen`
 --
-
+//updaujgasjfbnlkasdmjk
 CREATE TABLE `konsumen` (
   `ID_Konsumen` int(11) NOT NULL,
   `Nama_Konsumen` varchar(25) NOT NULL,
